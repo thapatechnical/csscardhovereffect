@@ -29,6 +29,10 @@ body {
   box-shadow: 0 3px 10px 2px rgba(22, 22, 22, 0.2);
 }
 
+/* 
+ Plz Subscribe to Thapa Technical Youtube Channel  
+        link: https://www.youtube.com/thapatechnical */
+
 .card::before,
 .card::after {
   content: "";
@@ -81,6 +85,9 @@ img {
   height: 100%;
   object-fit: cover;
 }
+/* 
+ Plz Subscribe to Thapa Technical Youtube Channel  
+        link: https://www.youtube.com/thapatechnical */
 
 .details {
   position: absolute;
